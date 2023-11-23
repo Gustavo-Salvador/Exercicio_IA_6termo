@@ -1,3 +1,5 @@
+# Resolução de um quebra-cabeça por hill climb
+
 from random import randint
 import matplotlib.pyplot as plt
 import copy
